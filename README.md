@@ -2,21 +2,21 @@
 
 # Fomo Family | Social Crypto Trading App & Terminal
 
-### Trade Memecoins, Altcoins, & Perps Across 7 Blockchains with One Balance — Zero Gas Fees.
+### Trade Memecoins, Altcoins, & Perps Across 8 Blockchains with One Balance — Zero Gas Fees.
 
 [![Fomo Referral Code](https://img.shields.io/badge/Referral%20Code-FREEFEES-606AF7?style=for-the-badge&logo=shield&logoColor=white)](https://fomo.family/r/freefees)
 [![Direct Registration](https://img.shields.io/badge/Claim%20Discount-fomo.family%2Fr%2Ffreefees-00C087?style=for-the-badge&logo=googlechrome&logoColor=white)](https://fomo.family/r/freefees)
-[![Chains Supported](https://img.shields.io/badge/Chains-Solana%20%7C%20Base%20%7C%20Robinhood%20%7C%20BNB%20%7C%20ETH%20%7C%20Monad%20%7C%20ARC-181926?style=for-the-badge)](https://fomo.family/r/freefees)
+[![Chains Supported](https://img.shields.io/badge/Chains-Solana%20%7C%20Base%20%7C%20Robinhood%20%7C%20BNB%20%7C%20ETH%20%7C%20Monad%20%7C%20ARC%20%7C%20ELYSIUM-181926?style=for-the-badge)](https://fomofamilyweb.com/chains/)
 
 [![iOS App Store](https://img.shields.io/badge/App_Store-fomo_--_never_miss_out-black?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/us/app/fomo-never-miss-out/id6741115427)
 [![Google Play](https://img.shields.io/badge/Google_Play-family.fomo.app-green?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=family.fomo.app)
 [![Web Terminal](https://img.shields.io/badge/Desktop_Web-fomo.family-blue?style=flat-square&logo=firefox&logoColor=white)](https://fomo.family/r/freefees)
-[![Valuation](https://img.shields.io/badge/Backing-$94M%20(Benchmark%20%26%20Index%20Ventures)-orange?style=flat-square)](https://fomo.family/r/freefees)
+[![Valuation](https://img.shields.io/badge/Backing-$94M%20(Benchmark%20%26%20Index%20Ventures)-orange?style=flat-square)](https://fomo.family)
 
 ---
 
 ### Exclusive Welcome Promotion
-> Enter official referral code **`freefees`** at account sign-up to unlock an **exclusive lifetime fee discount** on trading commissions, plus **100% platform-sponsored zero-gas swaps** across all supported networks.
+> Enter Verified Active & Official Fomo App Referral Code **`freefees`** at account sign-up to unlock an **exclusive lifetime fee discount** on trading commissions, plus **100% platform-sponsored zero-gas swaps** across all supported networks.
 >
 > **[Click Here to Activate Code 'FREEFEES' Directly on fomo.family](https://fomo.family/r/freefees)**
 
@@ -25,14 +25,14 @@
 </div>
 
 ## Table of Contents
-- [What is Fomo Family (fomo.family)?](#-what-is-fomo-family-fomofamily)
-- [Why Fomo is Disrupting Crypto Trading](#-why-fomo-is-disrupting-crypto-trading)
-- [How to Apply Referral Code `freefees` (Step-by-Step)](#-how-to-apply-referral-code-freefees-step-by-step)
-- [Fee Schedule: Standard vs. Code `freefees`](#-fee-schedule-standard-vs-code-freefees)
-- [Supported Blockchains (One Balance, No Bridging)](#-supported-blockchains-one-balance-no-bridging)
-- [Security & Non-Custodial Architecture](#-security--non-custodial-architecture)
-- [Official Downloads & Anti-Phishing Verification](#-official-downloads--anti-phishing-verification)
-- [Frequently Asked Questions (FAQ)](#-frequently-asked-questions-faq)
+- [What is Fomo Family (fomo.family)?](#what-is-fomo-family-fomofamily)
+- [Why Fomo is Disrupting Crypto Trading](#why-fomo-is-disrupting-crypto-trading)
+- [How to Apply Referral Code `FREEFEES` (Step-by-Step)](#how-to-apply-referral-code-freefees-step-by-step)
+- [Fee Schedule: Standard vs. Code `FREEFEES`](#fee-schedule-standard-vs-code-freefees)
+- [Supported Blockchains (One Balance, No Bridging)](#supported-blockchains-one-balance-no-bridging)
+- [Security & Non-Custodial Architecture](#security--non-custodial-architecture)
+- [Official Downloads & Anti-Phishing Verification](#official-downloads--anti-phishing-verification)
+- [Frequently Asked Questions (FAQ)](#frequently-asked-questions-faq)
 
 ---
 
@@ -46,8 +46,8 @@ Backed by **$94 Million** in venture capital led by **Benchmark** ($17M Series A
 Traditional Terminals (Axiom, Photon, DexScreener)
 [Anonymous Hashes] + [Empty Candle Walls] + [1% Fees + Gas Spikes]
                               VS
-fomo App (fomo.family)
-[Social Trader Avatars on Charts] + [1-Tap Copy Trading] + [0 Gas across 6 Chains]
+Fomo App (fomo.family)
+[Social Trader Avatars on Charts] + [1-Tap Copy Trading] + [0 Gas across 8 Chains]
 ```
 
 ---
@@ -60,17 +60,17 @@ fomo App (fomo.family)
 2. **1-Tap Push Copy Trading:**
    - Follow top-performing wallets and set instant alerts. When they take a position on Solana or Base, tap the notification to buy the same token immediately from your shared balance.
 3. **Cross-Chain Without Manual Bridging:**
-   - Trade tokens on **Solana, Base, BNB Chain, Robinhood Chain, Ethereum, Arc and Monad** without opening bridge protocols or handling six different native gas coins.
+   - Trade tokens on **Solana, Base, BNB Chain, Robinhood Chain, Ethereum, Arc, Monad and Elysium** without opening bridge protocols or handling eight different native gas coins.
 4. **100% Sponsored Zero-Gas Swaps:**
    - Fomo sponsors the network gas. You never need to keep spare SOL, ETH, or BNB just to pay execution gas.
 5. **Instant Apple Pay & Card Funding:**
    - Fund your unified USD account in seconds using **Apple Pay**, Google Pay, or debit card (via Coinbase Onramp), or deposit USDC directly.
 6. **Seedless Non-Custodial Security:**
-   - Non-custodial smart wallet powered by **Shamir's Secret Sharing (Privy)**. No seed phrase anxiety, yet you hold true ownership and can export your private keys to Phantom, Bitget Wallet or MetaMask anytime.
+   - Non-custodial smart wallet powered by **Shamir's Secret Sharing (Privy)**. No seed phrase anxiety, yet you hold true ownership and can export your private keys to Phantom, Solflare, Bitget Wallet, Rabby Wallet or MetaMask anytime.
 
 ---
 
-## How to Apply Referral Code `freefees` (Step-by-Step)
+## How to Apply Referral Code `FREEFEES` (Step-by-Step)
 
 > **CRITICAL NOTE:** Fomo's security architecture **does NOT allow users to enter a referral code retroactively** after account creation. You must input the code during the initial onboarding screen.
 
@@ -78,12 +78,12 @@ fomo App (fomo.family)
 ┌─────────────────────────────────────────────────────────────────────────────┐
 │  STEP-BY-STEP REFERRAL CODE ACTIVATION GUIDE                                │
 ├─────────────────────────────────────────────────────────────────────────────┤
-│  1. Open the Official Portal:                                               │
+│  1. Open the Fomo Official Portal:                                          │
 │     Navigate to https://fomo.family/r/freefees                              │
 │     (Or download the app from the Apple App Store / Google Play).           │
 │                                                                             │
 │  2. Sign In:                                                                │
-│     Continue with your Apple ID, Google Account, or Email.                  │
+│     Continue with your Apple ID or Google Account.                          │
 │                                                                             │
 │  3. Enter Referral Code:                                                    │
 │     On the initial registration screen, locate the optional                 │
@@ -95,14 +95,16 @@ fomo App (fomo.family)
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
+> **Already registered without a referral code?** Don't worry—Fomo support will attach our code retroactively. In the app: tap **Profile → Settings → Help and Support → Contact Support**, and message: "**Please attach referral code FREEFEES to my account.**"
+
 ---
 
-## Fee Schedule: Standard vs. Code `freefees`
+## Fee Schedule: Standard vs. Code `FREEFEES`
 
 | Feature / Fee Type | Standard Platform Rate | With Referral Code `freefees` |
 | :--- | :--- | :--- |
 | **Spot Trading Commission** | `0.50%` | **Discounted Rate (Up to 10% – 25% Off)** |
-| **Blockchain Network Gas** | Sponsored (`$0.00`) | **100% Free ($0 Gas across all 7 chains)** |
+| **Blockchain Network Gas** | Sponsored (`$0.00`) | **100% Free ($0 Gas across all 8 chains)** |
 | **Perpetual Futures Fee** | `0.05%` per side | **Reduced commission rate** |
 | **Cross-Chain Bridge Fees** | None (Integrated) | **$0 (Direct swap routing)** |
 | **Private Key Export** | Free | **Exportable to Phantom, Bitget Wallet & MetaMask anytime** |
@@ -121,7 +123,9 @@ Fomo routes your orders directly through decentralized on-chain liquidity pools 
 - **Robinhood Chain (Arbitrum Orbit L2):** Native Robinhood Chain memecoins, tokenized real-world assets (RWAs), and tokenized stocks ($NVDA, $TSLA, $AAPL).
 - **BNB Chain (BSC):** Four.meme token launches and PancakeSwap liquidity.
 - **Ethereum (ETH):** Mainnet ERC-20 tokens without manual gas spikes.
-- **Monad:** High-throughput parallel EVM chain supported from day one.
+- **Monad:** Ultra-high throughput 10,000+ TPS execution. Full EVM bytecode compatibility with zero mempool congestion during high-volatility token mints.
+- **Arc:** Circle's dedicated high-performance Layer 1. Uses native USDC for deterministic, instant settlement without volatility risk.
+- **Elysium:** Ultra-performant Arbitrum Orbit Layer 2 purpose-built for Hyperliquid. Direct on-chain HyperCore order book composability, 300 Mgas/s throughput, and native HYPE gas execution.
 
 ---
 
@@ -132,7 +136,7 @@ Fomo routes your orders directly through decentralized on-chain liquidity pools 
 - **Shamir Secret Sharing (Privy):**  
   Private keys are mathematically partitioned between the secure enclave on your device and Fomo's encrypted infrastructure. FOMO Labs cannot move, seize, or freeze your assets.
 - **Full Key Sovereignty:**  
-  You can export your raw private key from the app settings at any time and import it into **Phantom**, **MetaMask**, **Bitget Wallet**, or **Solflare**.
+  You can export your raw private key from the app settings at any time and import it into **Phantom**, **MetaMask**, **Rabby Wallet**, **Bitget Wallet**, or **Solflare**.
 
 ---
 
@@ -142,9 +146,9 @@ Ensure you are interacting exclusively with verified official assets:
 
 | Platform | Official Verification Details | Direct Link |
 | :--- | :--- | :--- |
-| **Web Terminal** | Domain must be strictly `https://fomo.family` | [Launch Web App](https://fomo.family/r/freefees) |
+| **Desktop Web Terminal** | Domain must be strictly `https://fomo.family` | [Launch Web App](https://fomo.family/r/freefees) |
 | **iOS (iPhone/iPad)** | Name: *"fomo - never miss out"* \| Dev: **FOMO Labs, Inc.** | [App Store Listing](https://apps.apple.com/us/app/fomo-never-miss-out/id6741115427) |
-| **Android** | Package: `family.fomo.app` \| Dev: **FOMO Labs, Inc.** | [Google Play Listing](https://play.google.com/store/apps/details?id=family.fomo.app) |
+| **Android** | Package: `family.fomo.app` \| Dev: **fomo Labs, Inc.** | [Google Play Listing](https://play.google.com/store/apps/details?id=family.fomo.app) |
 
 > **SECURITY WARNING:**
 > - **No Third-Party APKs:** There is **NO official standalone `.apk`** distributed on external file-sharing sites. Sideloading unknown APKs risks wallet drainers.
@@ -155,17 +159,20 @@ Ensure you are interacting exclusively with verified official assets:
 
 ## Frequently Asked Questions (FAQ)
 
-### What is the Fomo Family referral code?
-The official Fomo referral code is **`freefees`**. Enter it in the invite/referral box during initial sign-up to unlock trading fee discounts and reward eligibility.
+### What Is The Fomo Family App Referral Code?
+The official Fomo App referral code is **`freefees`**. Enter it in the invite/referral box during initial sign-up to unlock trading fee discounts and reward eligibility.
 
-### Can I add referral code `freefees` after registration?
-No. The Fomo platform does not permit retroactive referral code additions once the sign-up form has been submitted. If you already registered without a code, you will need to register a new account using a different email or Apple ID to activate code `freefees`.
+### Can I Add Referral Code `FREEFEES` After Registration?
+Yes. Fomo support will attach code retroactively. In the app: tap Profile → Settings → Help and Support → Contact Support, and message: "Please attach referral code FREEFEES to my account.", or if you already registered without a code, you will need to register a new account using a different email or Apple ID to activate code `freefees`.
 
-### Does Fomo require KYC verification?
+### Does Fomo Require KYC Verification?
 No KYC is required for spot crypto swaps. You can sign in and begin trading immediately. Traditional payment processors (for Apple Pay/card on-ramps) may perform standard payment compliance checks.
 
-### How do referral earnings work?
+### How Do Referral Earnings Work?
 When you refer fellow traders with your personal invite link, you earn a percentage of all trading fees generated by your network, deposited directly in USDC to your platform wallet.
+
+### Can I Use Fomo Family On Both Web (Desktop) And Mobile (App) With The Same Account?
+Yes. Fomo Family provides a completely unified, cross-platform trading ecosystem. Because your non-custodial wallet is secured by Privy MPC, logging in with your Apple or Google account syncs your portfolio, watchlists, Clan memberships, and open orders instantly between the desktop Web terminal (fomo.family) and the iOS / Android mobile apps. There is no need to transfer funds or manage separate wallets—any trade executed or deposit made on web reflects in real time on mobile with $0 gas across all 8 supported blockchains.
 
 ---
 
