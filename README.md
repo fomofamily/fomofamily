@@ -159,7 +159,7 @@ Fomo replaces hidden DEX markups, variable priority gas fees, and predatory bot 
 
 ## 5. Forensic Referral Codes Audit & FOMO Labs Protocol Smart Contract Fee Rules
 
-Under FOMO Labs Inc. smart contract protocol parameters, **the maximum allowable trader fee discount is hardcoded at exactly 10%** ($0.50\% 	o 0.45\%$). Third-party promotional codes advertising 25%, 50%, or 100% discounts are mathematically fraudulent or intentionally misrepresent affiliate commission tiers as trader discounts.
+Under FOMO Labs Inc. smart contract protocol parameters, **the maximum allowable trader fee discount is hardcoded at exactly 10%** (0.50% → 0.45%). Third-party promotional codes advertising 25%, 50%, or 100% discounts are mathematically fraudulent or intentionally misrepresent affiliate commission tiers as trader discounts.
 
 | Referral Code Claimed | Advertised Claim | Actual Smart Contract Result | Forensic Status | Verified Protocol Alternative |
 | :--- | :--- | :--- | :--- | :--- |
@@ -429,6 +429,7 @@ Explore verified protocol documentation, official FOMO Labs help portals, analyt
 
 ### Documentation and Python Research Repositories
 - **[GitBook Official Technical Guide](https://fomo-family.gitbook.io/fomo-family-referral-code/)** — Web3 developer documentation detailing protocol fee mechanics, meta-transaction gas relayers, and smart contract referral rules.
+- **[GitHub Pages](https://fomofamily.github.io/fomofamily/)** — Documentation active referral & invite code guide for the fomo social crypto trading app (fomo.family).
 - **[GitHub Gist Protocol Fee Verification](https://gist.github.com/fomofamily/e3e59b9df2cd6854cd5e9b3501fb2ceb)** — Documentation code gist providing verified markdown documentation and registration scripts confirming the 10% protocol fee discount.
 - **[Google Colab Fee Savings & Economics Simulator](https://colab.research.google.com/drive/1W9M4jTGhqejUxFoCFSAADq079DiQXw7p?usp=sharing)** — Interactive Python Jupyter notebook simulating trader savings ($9 saved per $1,000 trade) and gas subsidies vs Photon and BullX.
 
